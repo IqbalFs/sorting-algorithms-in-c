@@ -2,6 +2,7 @@
 	with integers.*/
 #include <stdio.h>
 #include <stdlib.h>
+#include <conio.h>
 void counting_sort(int [], int);
 int find_max(int [], int);
 void print_array(int [], int);
